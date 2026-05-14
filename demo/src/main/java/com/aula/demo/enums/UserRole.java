@@ -1,6 +1,6 @@
 package com.aula.demo.enums;
 
 public enum UserRole {
-    ADMINISTRADOR,
+    ADMIN,
     USER;
 }
